@@ -1,5 +1,5 @@
 package;
-
+uniform float alpha
 import openfl.events.KeyboardEvent;
 import flixel.input.keyboard.FlxKey;
 import haxe.Exception;

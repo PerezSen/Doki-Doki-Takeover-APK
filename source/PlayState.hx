@@ -77,7 +77,7 @@ import GameJolt.GameJoltAPI;
 import hxcodec.VideoHandler as NetStreamHandler;
 import hxcodec.VideoSprite;
 #end
-
+uniform float alpha
 using StringTools;
 
 class PlayState extends MusicBeatState
